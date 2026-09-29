@@ -16,9 +16,6 @@ Requires Python 3.10+ and Git. Install in the environment that runs your job:
 python -m pip install git+https://github.com/OpenPerfAgent/parity.git
 ```
 
-While the repository is private, Git must be authenticated with a GitHub account
-that has access.
-
 ## Quick start
 
 Mark the checkpoints. Fold the step into the tag; nothing else distinguishes two
@@ -184,4 +181,8 @@ faster, or is it just wrong*, and it is the correctness gate of
 [who-ate-my-flops](https://github.com/OpenPerfAgent/who-ate-my-flops).
 It can also be used on its own.
 
+## License
+
 Copyright © 2026 Impossible, Inc.
+
+Licensed under the [Apache License, Version 2.0](LICENSE).
